@@ -12,7 +12,7 @@ Este repositorio contiene el código fuente de mi portafolio personal, desarroll
 
 ## Requisitos
 
-- Python 3.7 o superior
+- [Python 3.7 o superior](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly](https://plotly.com/python/)
